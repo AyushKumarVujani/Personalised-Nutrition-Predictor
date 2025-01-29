@@ -11,12 +11,11 @@ upload, model training, and predictions.
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [File Structure](#file-structure)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Future Enhancements](#future-enhancements)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ---
 
@@ -51,22 +50,7 @@ activity levels, and dietary patterns. The GUI allows non-technical users to int
   - Feedforward Neural Networks (FFNN)
   - Random Forest Regressor (RFR)
 
----
 
-## File Structure
-
-Personalized_Nutrition_Predictor/
-|
-|- Datasets/
-|   |- Dataset.csv            # Training dataset
-|   |- TestData.csv           # Testing dataset
-|
-|- Model/
-|   |- ANN_Regressor.h5       # Pre-trained Feedforward Neural Network model
-|   |- RFR_Model.pkl          # Pre-trained Random Forest Regressor model
-|
-|- main.py                    # Main Python script to execute the application
-|- run_Project.bat            # Batch file to run the project
 
 ---
 
